@@ -1,0 +1,35 @@
+### Intellij ###
+.idea
+**/*.project
+**/*.settings
+**/*.iml
+.idea/*
+.idea/**
+.project
+.settings
+*.iml
+.settings/*
+
+### Java ###
+*.class
+.classpath
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Folders #
+**/target
+local-settings/
+local-settings/*
+target
+*/target/
+*/*/target
+target/*
+out/
+
+# Misc #
+*.orig
+dep_current.txt
+
